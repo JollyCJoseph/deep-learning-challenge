@@ -3,8 +3,8 @@
  The purpose of this analysis is to create a binary classifier for a non- profit foundation Alphabet Soup, that can predict whether the applicants will be successful if funded.
 # RESULTS
 # * Data Processing
-	# o Target variables are values of column IS_SUCCESSFUL
-	# o Feature variables are all other columns except EIN and NAME which  were removed.
+	 o Target variables are values of column IS_SUCCESSFUL
+	 o Feature variables are all other columns except EIN and NAME which  were removed.
 
 # * Compiling, Training, and Evaluating the Model
 	# o in the first model, 2 hidden layers with 18,10 neurons were used.In the first optimization model, again same layers but 24 and 11 neurons were used. In the last 	  	   	  model, three layers with 24,11 and  11 neurons were used.
