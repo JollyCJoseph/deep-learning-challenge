@@ -15,6 +15,8 @@
 
 <img width="269" alt="model2" src="https://github.com/JollyCJoseph/deep-learning-challenge/assets/151517356/129a9575-8048-4790-a4c5-4cc24255f2a4">
 
+<img width="267" alt="model3" src="https://github.com/JollyCJoseph/deep-learning-challenge/assets/151517356/d3543fda-dcca-4640-8dd1-cce0c38f81d4">
+
 
 
 # SUMMARY
