@@ -10,7 +10,8 @@
 	 o in the first model, 2 hidden layers with 18,10 neurons were used.In the first optimization model, again same layers but 24 and 11 neurons were used. In the last 	  	   	  model, three layers with 24,11 and  11 neurons were used.
 	 o Neither models could not achieve target performance of more than 75%.
 	 o Activation functions in the hidden layers are “relu” and in the output layer, its sigmoid function as the output is binary.
-<img width="266" alt="model1" src="https://github.com/JollyCJoseph/deep-learning-challenge/assets/151517356/1e0e4c05-a7c8-4532-9138-1097bb67e1af">
+<img width="266" alt="model1" s<img width="269" alt="model2" src="https://github.com/JollyCJoseph/deep-learning-challenge/assets/151517356/e8633a57-4c21-455b-a65a-b74194219679">
+rc="https://github.com/JollyCJoseph/deep-learning-challenge/assets/151517356/1e0e4c05-a7c8-4532-9138-1097bb67e1af">
 
 # SUMMARY
 # All three models could not achieve performance of more than 75%.The activation function used in the hidden layer s are ‘relu’.
