@@ -12,5 +12,5 @@
 	#o Activation functions in the hidden layers are “relu” and in the output layer, its sigmoid function as the output is binary.
 
 # SUMMARY
-	# All three models could not achieve performance of more than 75%.The activation function used in the hidden layer s are ‘relu’.
-	# Combinations of different activation functions and different combinations of hidden layers and neurons might improve the performance of the model. By creating a method to allow 	# the kerastuner to decide the activation functions in the hidden layers and number hidden layers and neurons will improve the performance of the model.
+# All three models could not achieve performance of more than 75%.The activation function used in the hidden layer s are ‘relu’.
+# Combinations of different activation functions and different combinations of hidden layers and neurons might improve the performance of the model. By creating a method to allow 	 the # kerastuner to decide the activation functions in the hidden layers and number hidden layers and neurons will improve the performance of the model.
